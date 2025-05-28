@@ -2,7 +2,7 @@ export default function CartWidget() {
 	return (
 		<div className="cart-widget">
 			<img
-				src={'./public/marketWhite.svg'}
+				src="/marketWhite.svg"
 				alt="Logo MiTienda"
 				width={30}
 			/>
